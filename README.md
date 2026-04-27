@@ -14,16 +14,27 @@ The objective is to demonstrate core data analysis skills, including:
 ## Project Structure
 
 excel_sales_analysis/
+
 │
+
 ├── dashboard/
+
 │ └── dashboard.png
+
 │
+
 ├── data/
+
 │ └── Sample - Superstore.csv
+
 │
+
 ├── excel/
+
 │ └── sales_analysis.xlsx
+
 │
+
 └── README.md
 
 
