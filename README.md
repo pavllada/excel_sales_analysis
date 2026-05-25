@@ -161,15 +161,6 @@ The dashboard includes:
 2. Open: `excel/sales_analysis.xlsx`  
 3. Go to the **Dashboard** sheet  
 
----
-
-## Potential Improvements
-- Add Power Query for data processing
-- Use Power Pivot and DAX
-- Implement dynamic metric selection
-- Improve dashboard design and UX
-
----
 
 ## Author
 
